@@ -74,10 +74,6 @@
       "npm run fmt",
       "eslint -c ./.eslintrc.json --fix",
       "git add"
-    ],
-    "*.py": [
-      "pylint",
-      "git add"
     ]
   },
   "engines": {
